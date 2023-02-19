@@ -1,0 +1,35 @@
+{
+    "name": "webapp",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build"
+    },
+    "dependencies": {
+        "@vue/compat": "^3.2.45",
+        "autoprefixer": "^9.8.8",
+        "axios": "^0.21.4",
+        "core-js": "^3.6.5",
+        "moment-timezone": "^0.5.34",
+        "postcss": "^7.0.39",
+        "register-service-worker": "^1.7.2",
+        "source-map-url": "^0.4.1",
+        "toastify-js": "^1.11.1",
+        "urix": "^0.1.0",
+        "vue": "^3.2.45",
+        "vue-meta": "^2.4.0",
+        "vue-moment": "^4.1.0",
+        "vue-router": "^4.0.13",
+        "vuex": "^4.1.0"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "~5.0.0",
+        "@vue/cli-plugin-router": "~5.0.0",
+        "@vue/cli-plugin-vuex": "~5.0.0",
+        "@vue/cli-service": "~5.0.0",
+        "@vue/compiler-sfc": "^3.1.0",
+        "sass": "~1.32.12",
+        "sass-loader": "^12.0.0"
+    }
+}
